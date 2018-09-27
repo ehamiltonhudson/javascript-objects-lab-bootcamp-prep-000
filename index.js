@@ -1,1 +1,1 @@
-function recipes = new Object ();
+function recipes = {}
