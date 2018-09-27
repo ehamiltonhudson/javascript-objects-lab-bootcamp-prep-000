@@ -1,1 +1,1 @@
-function recipes = {}
+var recipes = {};
